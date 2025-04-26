@@ -47,3 +47,5 @@ Plan has park kind arch benefit.
 Plan has park kind arch marry.
 
 Plan has park kind arch land.
+
+Plan has major.
