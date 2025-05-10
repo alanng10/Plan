@@ -48,4 +48,8 @@ Plan has park kind arch marry.
 
 Plan has park kind arch land.
 
+Plan has park mark.
+
+Plan has park cross.
+
 Plan has major.
